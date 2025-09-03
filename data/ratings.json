@@ -859,5 +859,96 @@
     "ratingValue": 3,
     "userId": "user-021",
     "timestamp": "2024-02-24T10:00:00.000Z"
+  },
+  {
+    "id": "eca460be-24cd-4b7e-967b-a5d5f8f126f8",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:21.987Z"
+  },
+  {
+    "id": "7afa890e-7c04-43c9-8fdb-690c455a86bc",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:22.972Z"
+  },
+  {
+    "id": "31632c7c-63ac-4109-862b-36c95450c6bf",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:23.397Z"
+  },
+  {
+    "id": "49b719dd-85b4-4c25-a733-17d5fb369d97",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:23.582Z"
+  },
+  {
+    "id": "9fada5e8-b83b-4f25-b43c-b364c5c1e5c2",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:23.767Z"
+  },
+  {
+    "id": "cd4da9ca-781d-4edc-847d-e2e23bf07050",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:23.965Z"
+  },
+  {
+    "id": "34b5d5c4-6534-4f9d-9097-ca49b927dc7a",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:24.159Z"
+  },
+  {
+    "id": "c793253e-c0fc-4516-9150-59a0c4590d89",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:24.367Z"
+  },
+  {
+    "id": "926127d4-c744-486f-b462-77c5257163a5",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:24.574Z"
+  },
+  {
+    "id": "c2b68a32-29be-4633-bfe8-5765cd85405e",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:24.778Z"
+  },
+  {
+    "id": "bc650553-4b56-4648-8078-19a57b88dd9a",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:24.954Z"
+  },
+  {
+    "id": "96b69f6e-9155-4a77-a4cc-19522cdebe90",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:25.139Z"
+  },
+  {
+    "id": "b6b11de5-509c-44c8-8c0b-3b60798705c4",
+    "resourceId": "res-187e1488-81d3-4a11-a83d-e3c79c8f0001",
+    "ratingValue": 1,
+    "userId": "anonymous",
+    "timestamp": "2025-08-29T10:45:25.338Z"
   }
 ]
